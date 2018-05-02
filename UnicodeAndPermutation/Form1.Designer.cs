@@ -100,7 +100,7 @@
 			this.Controls.Add(this.txtWord);
 			this.Controls.Add(this.buttonPorcess);
 			this.Name = "Form1";
-			this.Text = "Unicode and Permutation";
+			this.Text = "Unicode and Anigrams";
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
