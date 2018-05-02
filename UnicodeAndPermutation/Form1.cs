@@ -43,6 +43,10 @@ namespace UnicodeAndPermutation
 		#endregion
 
 		#region Sum Unicode Numbers
+		/// <summary>
+		/// 받은 string의 각 character들의 Unicode 값을 구하여 합산함
+		/// </summary>
+		/// <param name="word"></param>
 		private void SumUnicodeNumbers(string word)
 		{
 			int n = 0;
